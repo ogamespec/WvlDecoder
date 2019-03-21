@@ -1,0 +1,8 @@
+*.wvl
+x64
+Debug
+Release
+Win32
+.vs
+*.user
+*.bmp
